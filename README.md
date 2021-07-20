@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waltare68
-- 👀 I’m interested in buiding software solutions
+- 👀 I’m interested in buiding software and impressive things,whats a product without a cool and unique look
 - 🌱 I’m currently improving my coding skills immensely freelancing
 - 💞️ I’m looking to collaborate on building of any software 
 - 📫 How to reach me waltare68@gmail.com,i respond immediately.
