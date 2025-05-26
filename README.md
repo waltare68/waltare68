@@ -6,6 +6,15 @@
 - 🤝 I'm open to contributing to any software development projects where clean architecture, performance, and intuitive UI/UX are valued.
 - 📬 Reach me at **waltare68@gmail.com** – I usually respond **immediately**!
 
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages & Frameworks
+- **C# / VB.NET**
+- **ASP.NET MVC / ASP.NET Core / .NET architectures**
+- **Entity Framework / NHibernate**
+- **Blazor / Razor Pages**
+- **JavaScript / jQuery / TypeScript**
+
 ---
 
 > ⚡ Let's build something remarkable together.
