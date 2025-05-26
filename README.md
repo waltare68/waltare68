@@ -19,3 +19,6 @@
 ---
 
 > ⚡ Let's build something remarkable together.
+
+📘 Note on GitHub Activity
+While my GitHub activity may appear limited, I’ve actively contributed to various projects over the past few years using other collaboration tools like TortoiseSVN in private or enterprise environments. Much of my work has been in closed-source, production-grade applications.
